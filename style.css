@@ -1,0 +1,80 @@
+html {
+    padding: 15px;
+}
+
+.container1 {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: ;
+}
+
+.container2 {
+    border: 1px solid blue;
+    padding: 0 20vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item {
+}
+
+.icons {
+    display: flex;
+    justify-content: row;
+    background-color: red;
+}
+
+.fas fa-coffee {
+    display: flex;
+    justify-items: center;
+}
+
+.section-title {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+#test {
+    height: 10vh;
+}
+
+.container-intro {
+    display: flex;
+    align-content: row;
+    justify-content: space-between;
+}
+
+.container-intro2 {
+    display: flex;
+    align-content: row;
+    justify-content: space-between;
+}
+
+.section-title h2 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.section- col-12 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.icons-bottom {
+    background: #3b3b3b;
+    display: flex;
+    align-items: row;
+}
+
+.homewidget {
+    color: white;
+}
